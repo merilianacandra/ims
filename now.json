@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "builds": [
+        { "src": "index.php", "use": "@now/php" },
+        { "src": "config.php", "use": "@now/php" },
+        { "src": "list-siswa.php", "use": "@now/php" },
+        { "src": "form-daftar.php", "use": "@now/php" },
+        { "src": "proses-pendaftaran.php", "use": "@now/php" },
+        { "src": "hapus.php", "use": "@now/php" },
+        { "src": "form-edit.php", "use": "@now/php" },
+        { "src": "proses-edit.php", "use": "@now/php" }
+    ]
+}
